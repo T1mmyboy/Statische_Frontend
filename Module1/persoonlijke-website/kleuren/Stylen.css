@@ -1,0 +1,26 @@
+body {
+    background-color: cadetblue;
+}
+ul, li {
+    display:inline
+}
+a:link{
+    color: blue;
+}
+a:hover{
+    color:goldenrod;
+}
+.voorgrond{
+    margin: 200px;
+    background-color: darkcyan;
+    padding: 200px;
+}
+.grootkopjes{
+    color:darkslategray
+}
+.kleinkopjes{
+    color:lightslategray
+}
+.tekst{
+    color:darkgreen;
+}
