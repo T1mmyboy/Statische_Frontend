@@ -1,0 +1,41 @@
+body{
+font-family: 'Roboto', sans-serif;
+}
+.centreren{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left:  300px;
+    margin-right: 300px;
+}
+.hoofdtitel{
+    font-size: 36px;
+    line-height: 36px;
+}
+.tekst{
+    line-height: 26px;
+    font-size: 20px;
+}
+.kleinetitel{
+    font-size: 32px;
+    line-height: 32px;
+}
+.paragraaf{
+    font-size: 24px;
+    line-height: 32px;
+}
+.ingredienten{
+    font-size: 20px;
+    line-height: 40px;
+}
+.tips{
+    border: solid #def6ed 4px;
+    background-color: #def6ed;
+}
+a{color: goldenrod;
+}
+a:hover{color: green;}
+
+
+ol {list-style-type: decimal;
+    line-height: 50px;
+}
