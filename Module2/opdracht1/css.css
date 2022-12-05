@@ -1,14 +1,15 @@
 h1{color:lightseagreen}
-body{border: solid gray 40px;
+body{
+    border: solid gray 40px;
     background-color: antiquewhite;
     padding: 30px;
 }
-.first{
+div.first{
 background-color: cadetblue;
 padding: 30px;
 margin-bottom: 30px;
 font-weight: 800;
-line-height: 200%;
+line-height: 150%;
 font-style: oblique;}
 .second{
 background-color: seagreen;
